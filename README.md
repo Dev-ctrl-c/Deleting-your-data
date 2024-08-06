@@ -1,25 +1,24 @@
 # Shiabooks App Account and Data Deletion
 
-Welcome to the Shiabooks App data management page. We are committed to protecting your privacy and offer a straightforward process for you to request the deletion of your account and any associated data.
+Willkommen auf der Seite zur Verwaltung Ihrer Daten für die Shiabooks App. Wir sind bestrebt, Ihre Privatsphäre zu schützen und bieten Ihnen eine einfache Möglichkeit, die Löschung Ihres Kontos und der damit verbundenen Daten anzufordern.
 
-## How to Request Data Deletion
+## Wie Sie die Löschung Ihrer Daten anfordern
 
-To request the deletion of your account and all associated data, please follow these steps:
+Um die Löschung Ihres Kontos und aller damit verbundenen Daten zu beantragen, gehen Sie bitte wie folgt vor:
 
-1. **Email Us**: Click the link below to send an email to our support team:
-   [Request Data Deletion](mailto:shiabooksdev@gmail.com?subject=L%C3%B6schen%20meiner%20Daten&body=Sehr%20geehrtes%20Shiabooks%20Team,%0A%0Abitte%20l%C3%B6schen%20Sie%20meine%20personenbezogenen%20Daten%20aus%20Ihren%20Unterlagen.%20Vielen%20Dank.%0A%0AMit%20freundlichen%20Gr%C3%BC%C3%9Fen,%0A[Ihr%20Name])
+1. **E-Mail senden**: Schreiben Sie eine E-Mail an die folgende Adresse und geben Sie kurz an, dass Sie die Löschung Ihrer Daten anfordern möchten:
+   
+   [E-Mail senden](mailto:shiabooksdev@gmail.com?subject=L%C3%B6schen%20meiner%20Daten&body=Sehr%20geehrtes%20Shiabooks%20Team,%0A%0Abitte%20l%C3%B6schen%20Sie%20meine%20personenbezogenen%20Daten%20aus%20Ihren%20Unterlagen.%20Vielen%20Dank.%0A%0AMit%20freundlichen%20Gr%C3%BC%C3%9Fen,%0A%0A[Ihr%20Name])
 
-2. **Include Details**: In your email, please include your account details to help us process your request quickly.
+2. **Details angeben**: In Ihrer E-Mail geben Sie bitte die relevanten Kontodaten an, damit wir Ihre Anfrage schnell bearbeiten können.
 
-## Data Deletion Information
+## Informationen zur Datenlöschung
 
-- **Data Deleted**: All personal data associated with your account will be permanently deleted.
-- **Retention Period**: No data will be retained beyond the deletion request.
+- **Gelöschte Daten**: Alle personenbezogenen Daten, die mit Ihrem Konto verbunden sind, werden dauerhaft gelöscht.
+- **Aufbewahrungsfrist**: Es werden keine Daten über die Löschanfrage hinaus aufbewahrt.
 
-For any questions or additional support, feel free to contact us at [shiabooksdev@gmail.com](mailto:shiabooksdev@gmail.com).
+Für Fragen oder zusätzliche Unterstützung können Sie uns unter [shiabooksdev@gmail.com](mailto:shiabooksdev@gmail.com) kontaktieren.
 
 ---
 
-This page is provided to ensure compliance with data privacy requirements and to make the account deletion process transparent and accessible to all users.
-
-shiabooksdev@gmail.com
+Diese Seite dient dazu, die Einhaltung von Datenschutzanforderungen sicherzustellen und den Prozess der Datenlöschung für alle Nutzer transparent und zugänglich zu machen.
